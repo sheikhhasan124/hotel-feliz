@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Home = () => {
+const Resister = () => {
     return (
         <div>
-           <h2>home</h2> 
+            <h2>resister</h2>
         </div>
     );
 };
 
-export default Home;
+export default Resister;
